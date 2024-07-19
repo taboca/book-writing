@@ -10,5 +10,5 @@
 000_part3.txt
 
 200_methods_paragraphs.txt
-
+210_methods_images.txt
 210_methods_images.txt
