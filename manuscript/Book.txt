@@ -1,7 +1,8 @@
 
-000_part1.txt
 
 000_introduction.txt
+
+000_part1.txt
 
 010_self_grief.txt
 
