@@ -5,15 +5,21 @@
 000_part1.txt
 
 100/010_self_grief.txt
+100/100_tools_collaboration.txt
+100/200_critic_model.txt
 
 000_part2.txt
 
 200/100_management_goals.txt
+200/150_morning_pages.txt
+200/200_success.txt
+200/300_letters.txt
 
 000_part3.txt
 
 300/200_methods_paragraph.txt
 300/210_methods_images.txt
+300/300_ferramentas_ia.txt
 
 000_part4.txt
 
