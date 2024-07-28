@@ -26,12 +26,9 @@ Agora, nesse time “nosso chefe” com “nossos subordinados”, sabemos o que
 
 [1] GM2: Setting Objectives and Measuring Performance
 
+### Como irá lançar seu curso? Caso sobre objetivos e resultados mensuráveis
 
-### Caso - como irá lançar seu curso? 
-
-##### Sobre iteração das metas e dos resultados medíveis 
-
-![Amigável e medível](images/cover-krs-change.jpg)
+![Amigável e mensurável](images/cover-krs-change.jpg)
 
 <!--
 @meta ref -     https://docs.google.com/document/d/1JQ4IQrqny-yipUgHl2ahkvlNmHQyoaG07cEIxUn4buE/edit
