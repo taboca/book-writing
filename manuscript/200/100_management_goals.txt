@@ -28,7 +28,9 @@ Agora, nesse time “nosso chefe” com “nossos subordinados”, sabemos o que
 
 ### Como irá lançar seu curso? Caso sobre objetivos e resultados mensuráveis
 
+<!--
 ![Amigável e mensurável](images/cover-krs-change.jpg)
+-->
 
 <!--
 @meta ref -  https://docs.google.com/document/d/1JQ4IQrqny-yipUgHl2ahkvlNmHQyoaG07cEIxUn4buE/edit

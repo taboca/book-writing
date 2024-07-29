@@ -1,6 +1,8 @@
 # Sussurro da voz do escritor
 
+<!--
 ![O ser desconhecido](images/cover-voice.png)
+-->
 
 Nenhum escritor — ao escrever do desenvolvimento de um escritor — pode ouvir aquela voz. Foi isso que pensei, olhando as coisas com base no que eu sabia — com 100% de certeza. Uma coisa que sei, com 100% de certeza: ele sabe como descartar coisas. De alguma forma, meu ser crítico está sempre à frente. À frente do meu ser inocente, à frente de outros seres em desenvolvimento. Ele continua silenciando as coisas, rápido demais. Para defendê-lo, como um advogado, ele tem suas razões práticas: por quê se preocupar com tantas possibilidades? Por quê se arriscar com o desconhecido? Talvez por nos ter livrado de verdadeiro mal, nosso ser crítico recebe aquele crédito, como sábio. Infelizmente, para meu futuro escritor. 
 
