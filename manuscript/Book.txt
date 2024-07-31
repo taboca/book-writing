@@ -28,3 +28,4 @@
 400/300_status_engavetando.txt
 400/400_conduction.txt
 400/500_mission.txt
+400/600_passo_de_fe.txt
