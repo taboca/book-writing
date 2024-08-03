@@ -1,5 +1,10 @@
 # Parágrafos
 
+<!--
+v0.2
+https://docs.google.com/document/d/18B38KyWTMNGZWVW0Nm04cRGmOwFJ6sKFCIlOAo4wl8Q/edit#heading=h.ksta1uqs3osa
+-->
+
 ### O parágrafo líder 
 
 Em relação a esse conceito, eu só tenho a agradecer o escritor William Zinsser, do livro, em inglês, On Writing Well. William diz que o objetivo do primeiro parágrafo é proporcionar ao leitor, despertar ao leitor, o interesse de ler o segundo parágrafo. O objetivo de ler o segundo parágrafo é despertar o leitor o interesse de ler o terceiro parágrafo. O objetivo do terceiro parágrafo é proporcionar ao leitor o interesse de ler o quarto parágrafo e assim por diante. 
@@ -10,7 +15,15 @@ Uma metáfora aqui é muito importante e vem do mundo dos negócios. Eu aprendi 
 
 Aliás aí está uma nota de grande valor pois a metáfora foi usada por Glen para justamente ajudar empreendedores, principalmente aos que precisam conversar com seus membros de conselhos - aquelas pessoas super importantes. Glen sabe que, na hora H, nós ficamos muito impressionados, ou críticos, e não somos quem somos. 
 
-### Explicando as coisas técnicas 
+## Fluir vs. editar - e sofrimento 
+
+Devemos considerar os elementos importantíssimos sobre as caracterizações da psique do escritor e situações de sofrimento que onde muitos de nós iremos achar que é algo só nosso. Não é normal. E sim, tem solução. E sim, a solução está em alinhamento com o que consideramos em uma seção anterior quando discutimos as personalidades ou o que também podemos entender como modos de operação. 
+Neste sentido, a renomada autora, Ayn Rand, em *The Art of Non-Fiction*, fala da caracterização consciente vs. a caracterização subconsciente. Ela destaca, por exemplo, que quando olhamos demais para um parágrafo podemos nos confundir, por exemplo quando decoramos parágrafos:
+
+> *””* (Rand.Ayn, The Art of Non-Fiction)  
+
+Nesta questão de editar, melhorar, sim existem situações válidas que o que você faz está fluindo. Mas lembre-se que a ideia é não entrar na “toca do coelho”. O renomado autor Jordan Peterson, em *Essay Writing Guide*, diz que a edição de parágrafos irá passar por um processo de edição onde essencialmente trocamos frases para ver qual é melhor, qual carrega as palavras mais adequadas, qual tem o sentido mais simples e mais eficiente, qual tem a sonoridade. Ele diz que em seu livro chegou a fazer cerca de 50 edições em parágrafos. Ainda, ele dá uma dica que diz muito sobre a essência desse tipo de edição: O método é comparar dois parágrafos, lado a lado. Então você deixa a versão A e do lado direito, por exemplo, coloca a versão B. Na B você troca uma frase. E você compara os dois. O ponto nosso, aqui é que sim, estamos reconhecendo que esse tipo de dinâmica caracteriza edição. E que, fundamentalmente, você não quer se engajar com isso na fase onde está ainda colocando, digamos assim, os blocos de ideias. 
+
+### Explicando coisas técnicas 
 
 Condução para explicações científicas - Segundo o autor William Zinster, do livro em inglês On Writing Well, algumas ideias são difíceis de explicar, por exemplo, quando precisamos explicar assuntos e ideias complexas, por exemplo, as ideias técnicas, a abordagem que ele sugere é utilizar de uma linguagem onde você está explicando como as coisas funcionam, então você não tenta descrever o que é, mas sim você tenta descrever como aquilo funciona, logicamente você pode descrever como aquilo funciona fazendo comparações com coisas que as pessoas conhecem.
-

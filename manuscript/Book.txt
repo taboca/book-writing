@@ -24,7 +24,6 @@
 000_part4.txt
 
 400/100_voz_escritor_sussurros.txt
-400/150_arroz.txt
 400/200_medias_e_medidas.txt
 400/300_status_engavetando.txt
 400/400_conduction.txt
