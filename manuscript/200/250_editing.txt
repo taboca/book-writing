@@ -51,7 +51,7 @@ Por Marcio S Galli, v0.1, 8 de Agosto de 2024
 
 -->
 
-### Edição - O Game Over na Fase de Edição  
+### O game gver na fase de edição  
 
 Se escrever fosse um jogo de videogame, e uma das fases fosse escrever, então temos que a caminhada inevitavelmente leva a fase de edição. Uma que é bem diferente. Nesta, sabemos, o oponente é outro, ele não está na sua pele, não está do seu lado, e tem uma perspectiva bem diferente. Ainda, você sabe, para vencer precisa de passar pelo editor. 
 Enfim, você entra nessa batalha e uma das possíveis consequências, o assunto deste ensaio, é que logo de cara vem um Game Over. Agora, com isso eu quero dizer realmente aquele que soa como “tente de novo”. É, é isso mesmo, não tem uma boa explicação exceto uma sensação que você tem que voltar à fase anterior. 
