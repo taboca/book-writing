@@ -2,7 +2,8 @@
 
 <!--
 
-* Ref https://docs.google.com/document/d/1yxG1ZXjensPZbJBGG7fsHqZqQlg9gZZd3wfPsZBg0eg/edit
+* O que importa é a média, e a medida 
+ - www.EscrevendoUmEscritor.com.br -Por Marcio S Galli, v0.3, 24de Julho de 2024 - Ref https://docs.google.com/document/d/1yxG1ZXjensPZbJBGG7fsHqZqQlg9gZZd3wfPsZBg0eg/edit
 
 ![Susto ou excitação](images/cover-average.jpg)
 
