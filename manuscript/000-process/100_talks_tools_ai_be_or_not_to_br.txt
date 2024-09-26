@@ -1,0 +1,75 @@
+
+## Palestra - Ser ou não ser escritor, no mundo da inteligência artificial 
+
+* 26 de Setembro de 2024, por Marcio S Galli mgalli@mgalli.com v0.3
+
+<!--
+https://docs.google.com/document/d/1RXqC1deta9so9ae-2ob3QsmMNSR-Gg3cJqSU5Vy1zTo/edit
+-->
+
+Formato: Palestra/Conversa 
+45min, 60min, 90min
+
+“Vivemos uma era em que o ato de escrever nunca foi tão acessível, democrático e, paradoxalmente, desafiador. O escritor contemporâneo se vê imerso em um cenário de abundância tecnológica, onde ferramentas de publicação, edição e colaboração oferecem  prometem oportunidades sem precedentes. Ao mesmo tempo, esse ambiente hiperconectado, repleto de incentivos à produtividade e à visibilidade instantânea, impõe um ritmo acelerado que pode comprometer a profundidade e a autenticidade da jornada criativa.” ChatGPT [1] 
+
+Agora, sem as palavras ditadas pela IA, eu lhe convido para um momento de pausa e reflexão. Faço este apelo porque já estamos imersos, não só no meio de ferramentas mas em um meio que é ditado por ferramentas. Neste momento de revolução, podemos olhar para o céu e refletir sobre o que foi escrito pelas estrelas desse universo, sobre a arte da escrita; sobre aquilo que faz mais do que grandes obras, sobre o poder transformador que, pela escrita, nos eleva enquanto seres humanos. Neste momento, devemos colocar uma encruzilhada no nosso caminho e mais uma vez nos lembrarmos sobre o que é ser escritor. 
+
+Bio: Olá! Sou Márcio S. Galli. Minha carreira começou no Vale do Silício, quando fui acolhido pelos evangelistas da Netscape, uma empresa pioneira no início da Web. Lá, atuei como escritor técnico, palestrante e autor de patentes, contribuindo para o desenvolvimento tecnológico da época. Após minha passagem pela Netscape, trabalhei na Yahoo e Mozilla, sempre focado na interseção entre tecnologia e comunicação. Mais tarde, como empreendedor, criei soluções de comunicação digital como a Tela Social e a plataforma Meplex. Hoje, além de empreendedor, exploro minha paixão pela escrita, compartilhando conhecimento e experiências. www.mgalli.com 
+
+## Sumário 
+
+* Apresentação - bio - jornada de escapar da leitura/escrita, comunicação, problemas 
+* Situação - O mundo Acelerado: usando a comunicação como fim, não como meio 
+* Complicação - Confusão, potencializar o “ser que crítica”, perder tempo 
+* Resposta - Direito de escrever, Direito de Evoluir, Pela Escrita  
+
+* A - Estamos acelerando  - Escrita para o mercado (Julia Cameron e William Zinsser); Mal dos roteiristas: vender a alma para os clichês (Robert McKee); Editor de textos & o Backspace: acelerando o crítico (Marcio S Galli); Corretores, corretores com estatística (Grammarly) 
+
+* B - Ferramentas vs. Interferência  
+
+ChatGPT: Karnal: A IA falhou, não fez ele ou mais do que ele. 
+Fazendo mágica: Meio senior, superpoderoso 
+IA para os programadores: 20.000 reais ou 2 centavos? 
+Caso: Procrastinação e Romantização Superpoderosa 
+ 
+* C - Libertação 
+
+Lado bom: Oops, trabalhei para a IA. Ooops, aprendi 
+Lado bom: Navegar a Web moderna: Fluxo sem ads, harmonia, calma, instrutiva. 
+Consciência: 2 eixos: avançar x crescer
+Criando separação: Conceito dos “super” estagiários: Estagiário: Notas APA (ou ABNT); Estagiário: Pesquisa; Estagiário: Transcrição de blocos; Estagiário: Tradutor rápido; Estagiário: Passei no teste? Leia meu texto e conclua; Outros estagiários. 
+
+Slides draft 
+
+## Who? ultimately
+
+Knows about writing and can't take the wrong turn: 
+"Sometimes the desire to write overcame the humiliation they had to undergo. Some evolved, but others dropped back into a life with no creative outlet, thwarted, and restless. I hope this book persuades some who are hesitating on the verge of abandoning writing to make a different decision." (Dorothea Brande, Becoming a Writer, page 11).
+Who does not know. 
+
+## Bio and potential phases 
+
+Part 1 - the kid - então vamos lá. Quando criança, logo no comecinho de vida, escola Ribeirão Preto, no Pré, eu tive minha primeira grande surpresa com a vida, nunca esqueci, que foi ver um desenho começado que só precisava ser acabado. Acho que muito do que nós sabemos, a vida começa assim mesmo, porque se por um lado temos o problema do ovo e do galinho, por outro lado sabemos muito que tudo começa com a galinha, em primeiro lugar. A partir do movimento, então, seja por imitação, ou seja, confiando e pelo acolhimento, depois podemos crescer. A confirmação de referência aqui é Maslow, no livro The Psychology of Being, quando ele fala sobre crescimento. O exemplo que ele dá é a mãe, que permite que a criança ande um pouco e dê uma pequena volta e volta para a perna. E sabemos também do mundo dos escritores que imitação é fundamental.
+Part 1.1 - abstraction - E, por exemplo, na citação abaixo dos autores de Elements of Style, fica claro a relação do escritor com a imitação, que é a partir disso que ele se conecta com certos tipos de escrita, de outros também, como se fosse de certa forma inspiração e acolhimento, ou logicamente para entender sua própria voz, etc. Isso é um pouco sobre sabermos do caminho. Continuando na minha jornada, posso dizer que também passei por um outro problema. Eu lembro brevemente de dois episódios de minha relação com a potencial escrita e leitura. Um deles, eu li uma história que tinha uma história meio contrária, que também mexeu com a minha vida inteira. Ela começa, eles viveram felizes para sempre. Recomendo, se você quiser, comprar para o seu filho. E também temos, não esqueço de uma história que recebi uma nota bem boa, que era A Guerra dos Bichos. Uma das cenas era o Pombo Correio levando alguma carta. Chamava Poncordex, Pombo Correio do Sedex, que na época eu achava que Sedex era o Correio.
+Part 1.3 - Escritor pré-enterrado - Enfim, também ali um potencial e algo começou a ser enterrado, provavelmente quando eu comecei a sentir algumas dificuldades. E eu não sei onde e qual que é a relação disso com o ambiente. Mas, de certa forma, eu lembro de alguns momentos onde eu gritei, do tipo independência ou morte, e eu gritei que eu não gostava de português. E talvez por não ter outra opção, outra opção do mundo padrão dos especialistas seria matemática e coisas exatas. E também pode ser que eu tenha me distanciado de esportes, porque meu irmão corria de bicicleta e eu ganhei um computador. Então essa diferenciação ou um certo escapismo me fez colocar bastante energia. Aqui podemos fazer uma outra referência também sobre a vida, que o Peter Drucker disse que, na essência, nós queremos ser alguém. Pode ser que eu encontre espaço para ser. Eu lembro que eu podia ensinar adultos sobre o que era programação, com cerca de 10, 12 anos de idade. Logicamente, eu não sabia nada, mas eu tinha um pouco mais tempo de me envolver do que eles. É desnecessário falar que tudo isso desencadeou um processo que, de alguma forma, eu estava rodeando a questão visual dos desenhos e talvez potencialmente rodeando a questão da escrita. Aqui, passando para a frente na época da universidade, quase indo para o Vale do Silício, um ponto importante é quando... Você tem um comentário desse colega meu, que hoje é CEO de uma empresa de seguros online? Ele fala que eu era um cara diferente. E também tinha algumas questões com comunicação. Para caracterizar problemas de comunicação,
+Part 1.3.1 - Abstraction - Adam Grant, Peter Drucker. 
+Part 2 - Check e-mail “” 
+
+## Our approach - How to be conscious? 
+
+The problem with consciousness is that it requires to know, because if you are in a path where we are required to be conscious, what to do? This is like asking the salesman to help you to know what to do. See, very few salesperson would be so well in that state of not being under a need to control their present needs. Abraham Maslow agrees with us here. And then you are required to be that conscious being, right? But there are ways which we can access the conscious situation although it requires from us courage and permission. And actually to be conscious about us, about our own movement. For example, to give ourselves time and opportunity and the chance for a moment of reflection. That sort of thing. One way to look is from a movement perspective to think of you as a carrier that you can change the pace of your movement. Or also that you can change the direction. Other way, you can be the curator of an exposition. You can pick a new kind of exhibition for your next week. Something for you to get involved with a new perspective. And other ways exist as well, and you can then see yourself in perspective being the one who writes about the journey as the journey goes. And when doing that you see perhaps to as well consider how the voices to emerge. I mean not keeping any darker side of fear in silence. Can you write that kind of letter? Perhaps you need to write two letters. One for the main, the controlling location, the king. Another that represents the voices from other sides within the ship.
+
+## Our problem - collaboration is real, writing is a collaborative process 
+
+DISCLAIMER - This book is here mainly because Leanpub is a good platform to make the book. However, I am NOT using the approach of writing by being too open through Leanup, for example enabling readers to read and collaborate, because of the monumental amount of non-linear editings and the high probability that many would not have time to engage to get what is going on. This does not mean that collaboration is not happening - all good writing is an intense collaborative process as real writers know it. With that said, if you want to help by reading one or other section of the book, I welcome and will hear your notes and your supporting points. (From https://leanpub.com/slowdowntostartup/) 
+
+Abstraction: Julia Cameron. Lonely and together. 
+
+Connecting and meaning is key. (Julia Cameron) 
+
+Struggle: Fear, procrastination, imagination. 
+
+Abstraction: Ayn Rand, Dorothea Brande, Julia Cameron  
+
+
+
