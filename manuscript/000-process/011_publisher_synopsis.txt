@@ -5,6 +5,8 @@
 
 * Pending v0.3.3 - Democrático and democrático repetition; 
 
+* Main cached - https://docs.google.com/document/d/1NqSndxiVd_Kx9c_FqtxBbFvaIRE87MJD0fTZxtDDG04/edit 
+
 * log v0.3.4 - New complication - a basic logic idea for what has changed - https://docs.google.com/document/d/1I4V3m5DBr-Vaz8umcmAs70EqMO7EvPcT9pcwLfu9bGI/edit#heading=h.n0k5qz8i0rz
 * log v0.3.3 - Note about Irony, thanks to JC 
 * log v0.3.3 - https://docs.google.com/document/d/1lWjCWm-6KlwI1h8TDd9LqpI1E1ScHpOwfJ6bs5i1URQ/edit - 
