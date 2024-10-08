@@ -1,0 +1,29 @@
+<!--
+* Main doc for publisher - https://docs.google.com/document/d/1xYVLSmQOf7Uxy5gz6W3vREarK1z4qw8w5M51uvy31VU/edit
+
+* Justification - Why it is relevant and original? https://docs.google.com/document/d/1MG5nfhVdCB6lCjf-zGK7v7RNHXnGpB126EsIwbL6An4/edit
+
+* log v0.3.2 - https://docs.google.com/document/d/1uYZPY3-OZ37OL7Z0X-SZlT8VNUpI0WotK6owYzEa0Kw/edit#heading=h.k9oncapxp0xu
+* log v0.3 - https://docs.google.com/document/d/1ye7dSnQJkupS1oob3jMPmLSSTWvEDESTZYsxgYX0jBM/edit#heading=h.r9o4hkr6v9o7
+-->
+
+## Synopsis 
+
+### According to ChatGPT, a synopsis isso
+
+* "For a non-fiction book, a synopsis is a brief overview that outlines the main argument, purpose, and key concepts of the book. It summarizes the central idea or thesis, explains the problem the book addresses, and provides a glimpse of the solutions, insights, or information it offers. The synopsis should also highlight the book's structure, such as its main sections or chapters, and any unique methodologies, case studies, or research it presents. Additionally, it gives a sense of the target audience and why the book is relevant or valuable to that group. The goal is to provide a clear, compelling picture of what the reader will gain from the book."
+
+### Version 0.3.2 
+
+No passado era muito difícil publicar. Não só pelo processo lento, por exemplo, quando escritores alugavam máquinas de escrever, mas pelo alto custo e critérios rigorosos do mundo das editoras. Livros eram mais selecionados, mesmo que em um mundo menos democrático. 
+
+Quando a esse desafio, nós conseguimos: Deixamos a máquina de escrever para trás e criamos um ambiente mais convidativo para quem quer ser um escritor ou se envolver com a escrita. Em outras palavras, escrever ficou mais democrático e este ambiente - com tantas soluções entre ferramentas e plataformas - é certamente empoderador, não só para a escrita mas para a publicação. Isso é uma grande conquista, dado que temos mais gente publicando de forma mais rápida em um mundo mais conectado, o que nos dá a chance de encontrar mais vitoriosos. 
+
+Mas quando pensamos na visão do escritor, que está lá, investindo seu tempo e com objetivos de sucesso, o processo ainda continua complexo. Isso porque publicar não significa progredir. Se voltarmos nossa preocupação para a jornada pessoal de cada um, este mesmo ambiente que empodera o movimento não exatamente acolhe com uma visão consciente da jornada de cada um. A complicação é que mesmo sendo mais escritores ainda estamos distantes daquele espaço que escritores especiais chamam de arte da escrita. Mas mais que isso, o que demanda uma nova postura, estamos usando muito mais energia, com mais interação, e não exatamente nos guiando de forma organizada, o que não só gera frustração e até decepção. 
+
+Escrevendo um Escritor lhe convida para um momento de reflexão consciente sobre o nosso envolvimento com a escrita. Essa será uma oportunidade de ver o processo como um processo de colaboração e aprendizado, onde a escrita evolui junto com o escritor. Desta forma, criamos um ambiente mais tranquilo e menos confuso, não importando se seu próximo destino é um diário, blog, e-book, ou livro; mas considerando reflexões essenciais que reconhecem que ser escritor é ser humano, por meio da escrita, em um caminho de constante evolução. 
+
+### Log 
+
+* v0.3 - Removed section which overexplains or attempts to connect with the actual answer, however in the introduction - https://docs.google.com/document/d/1ye7dSnQJkupS1oob3jMPmLSSTWvEDESTZYsxgYX0jBM/edit 
+
