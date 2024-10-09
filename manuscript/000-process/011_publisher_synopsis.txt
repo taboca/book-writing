@@ -1,9 +1,5 @@
 <!--
 
-* Doc for publisher - https://docs.google.com/document/d/1xYVLSmQOf7Uxy5gz6W3vREarK1z4qw8w5M51uvy31VU/edit
-
-* Justification - Why it is relevant and original? https://docs.google.com/document/d/1MG5nfhVdCB6lCjf-zGK7v7RNHXnGpB126EsIwbL6An4/edit
-
 * Notes - todo - pending@v0.3.5 - "difícil publicar" or "difícil se tornar um escritor"? 
 
 * Cached - https://docs.google.com/document/d/1NqSndxiVd_Kx9c_FqtxBbFvaIRE87MJD0fTZxtDDG04/edit 
@@ -28,7 +24,7 @@
 https://docs.google.com/document/d/1bx3XMKiLaoQAWHsENDH2iIu06ZKzVcoKqKGvBin8Boo/edit
 --> 
 
-No passado era muito difícil publicar. Tanto pela questão tecnológica - quando escritores alugavam máquinas de escrever - quanto pelos processos e critérios rigorosos que  acompanhavam o processo caro de construção, edição e distribuição dos livros impressos. Além disso, o legado deixado por brilhantes escritores nos contaram sobre a arte da escrita, que até hoje nos confunde quando pensamos quem são os escritores e como se tornar um bom escritor. 
+No passado era muito difícil publicar. Tanto pela questão tecnológica - quando escritores alugavam máquinas de escrever - quanto pelos processos e critérios rigorosos de um processo que era longo e complexo quanto a construção e distribuição dos livros impressos. Além disso, o legado deixado por brilhantes escritores nos contaram sobre a arte da escrita, que até hoje nos confunde quando pensamos quem são os escritores e como se tornar um bom escritor. 
 
 Mas depois de viramos capítulos dessa história, deixamos a máquina de escrever para trás e criamos um ambiente mais convidativo para quem quer ser um escritor - ou de uma forma ou outra se envolver com a escrita. Escrever ficou mais democrático, de certa forma. E ganhamos um ambiente que transborda soluções - como métodos, ferramentas e plataformas - para aqueles que querem se envolver com a escrita. 
 

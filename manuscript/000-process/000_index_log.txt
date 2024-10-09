@@ -3,4 +3,6 @@
 
 ## Done 
 
+* Updated SCqA outline for the book - v0.1 - https://docs.google.com/document/d/1xYVLSmQOf7Uxy5gz6W3vREarK1z4qw8w5M51uvy31VU/edit 
+
 * Reviewed first sentence of synopsis with a better statement of the past situation of writers; trying to break down in technology and process - https://docs.google.com/document/d/1bx3XMKiLaoQAWHsENDH2iIu06ZKzVcoKqKGvBin8Boo/edit 

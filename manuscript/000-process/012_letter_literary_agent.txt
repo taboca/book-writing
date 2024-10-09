@@ -3,10 +3,37 @@
 
 <!--
 
-https://docs.google.com/document/d/1-KZgdVN5L7jBpYEvTmY1cCnCqR3juLb0Ic7K-cD49Xw/edit
+* v0.1 - https://docs.google.com/document/d/1-KZgdVN5L7jBpYEvTmY1cCnCqR3juLb0Ic7K-cD49Xw/edit
 https://docs.google.com/document/d/11QF7RkrfpPrUnBgfrXUgsHQ-QMVh49x1dXu2_fdCMjY/edit
 https://docs.google.com/document/d/1SmJWXUts27TdmKa84QLvVBOb871VuJuYYd5lfcTiLYU/edit
 
 -->
+
+## v0.6  
+
+https://docs.google.com/document/d/11QF7RkrfpPrUnBgfrXUgsHQ-QMVh49x1dXu2_fdCMjY/edit
+
+De forma geral, este é um livro para aqueles que dependem da escrita e que querem, por meio da escrita, evoluir como profissionais e pessoalmente. A razão deste livro é justamente porque hoje pode ser mais ainda difícil entender o que ser um escritor - dado que existem escritores e escritores - e consequentemente como se tornar. Se por um lado temos tantos meios para escrever mais, editar mais e publicar mais; por outro ainda é um assunto complexo de ser estruturado, principalmente quanto mais caminhamos para o lado da arte da escrita. 
+
+Eu acabei de certa forma, esbarrando neste livro. Ou, por outro olhar, tendo uma luz no meio de um processo. Como um tecnologista de longa data, que a partir de uma idade escapou do mundo da escrita, continuei rodeando sem saber porque; e foi só com o tempo, décadas, que fui meio que esbarrando no que de fato me fez entender dois grandes problemas:
+
+Um deles, o próprio meio, que ficou muito mais rico, com seus métodos, ferramentas, plataformas e até sistemas de inteligência artificial agora. Este meio que nos deixa mais empoderados para escrever, editar e publicar. Se por um lado é um ambiente virtuoso, rico, que nos convida, que nos empodera. 
+
+Por outro, é como se estivéssemos sozinhos: Não no sentido de ação, de interação, de aceleração, mas no sentido de transformação e evolução.  Em outras palavras, enquanto esse ambiente é democrático e acessível. E não necessariamente nos guia em relação a jornada pessoal. 
+
+E não é porque ele força, mas simplesmente porque, no meio de tantos narrativos orientados a soluções Muitas vezes nos envolvemos buscando resultados imediatos ou pela visão de mercado Mas essencialmente nos colocamos em um local, gastando muita energia e foco, que podemos nos distrair.
+
+A complicação é que esse ambiente, essa forma de navegar, pode se tornar frustrante e levar até a decepção. 
+
+Nesse sentido, reconhecendo que estamos sozinhos, que precisamos de um guia, esse projeto traz um momento de reflexão. 
+
+Fazemos isso resgatando certos valores, que temos ao nosso lado mas não aparente neste meio tecnológico e acelerado. O que resgatamos vai no rumo do mundo dos grandes escritores que escreveram sobre a arte da escrita e sobre o processo, e mais do que sobre o processo que de fato é de evolução, de transformação. 
+
+Com base nesses valores essenciais, nosso momento traz uma reflexão sobre quem é consciente do processo de gestão, que envolve reconhecer que o escritor está sempre em evolução, que não existe um fim. E que esse processo tem muito a ver com a arte da escrita, ou com a arte em si, ou com o processo de inovação. 
+
+Outra componente também encontrada na arte da escrita é justamente que o processo, por meio da escrita, pode nos levar a caminhar nesse ambiente de forma que possamos nos livrar de distrações, filtrando ruído de sinal, e acima de tudo entendendo nossa evolução. Com uma abordagem que é mais calma, que é menos frustrante, recuperamos nosso movimento de liderança. E que reconhece que podemos utilizar da própria escrita para evoluir Não importa o projeto atual, se é um diário, um blog, um e-book, um livro ou o próximo livro
+
+
+## v0.1
 
 Escrevendo um Escritor surgiu em paralelo com um árduo processo de aprendizado enquanto escrevia outro livro, em inglês, que era minha meta principal. Em termos de influências, poderia destacar Julia Cameron (The Right to Write), Dorothea Brande (Becoming a Writer), Ayn Rand (The Art of Non-Fiction), Barbara Minto (The Minto Pyramid Principle) e outros porém relacionados com gestão e empreendedorismo. Acredito que a audiência é alguém que quer ser escritor - o que nos termos de hoje pode ser alguém que vê seu futuro como dependente da escrita. A complicação é que esta pessoa pode se ver sozinha, no sentido estratégico, pois justamente está empoderada ao movimento mais rápido - em mundo com tantas formas e formatos de escrever e publicar. A situação, que leva a essa complicação, é que o mundo mudou, de certa forma democrático e mais acessível, sim, mas também demandando mais energia e foco. Em outras palavras, este mesmo ambiente empoderador pode ser o palco de um movimento que se distrai, que pode ser desgastante, frustrante e mais do que isso, levar à total decepção. Para resolver esse problema, o livro conduz o escritor (como aquele que escreve) por um caminho virtuoso, resgatando a partir da "arte da escrita" muitas respostas para uma navegação/atuação menos frustrante e mais consciente. Ao mesmo tempo, a leitura não deixa de lado a gestão do movimento empreendedor, reconhecendo que o processo é sobre inovação e envolve a transformação do escritor. Este livro dá suporte para quem quer, por meio da escrita, evoluir como escritor e como ser humano, no lado pessoal e profissional
