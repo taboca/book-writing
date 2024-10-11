@@ -3,6 +3,9 @@
 <!--
 v0.1
 https://docs.google.com/document/d/1b9C9Z9bVGiL9I5CRZVtyMe6iyEZ_puCATS780zpd7Tk/edit?tab=t.0
+
+![](images/image-example.jpg)
+
 -->
 
 Você é escritor? Foi uma pergunta que não ouvi, então eu disse: "O quê?" "Você é escritor?" Mais uma vez, perguntei: "Como?" E então ela perguntou de novo: "Você é escritor?" Dessa vez, eu ouvi o que achei que havia escutado.
