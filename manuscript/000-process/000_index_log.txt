@@ -3,7 +3,9 @@
 
 ## Done 
 
-* Article - "A Escrita, o Trabalho, é o Exemplo" - 
+* Thanks section, 000-process/200_thanks.txt 
+
+* Article - "A Escrita, o Trabalho, é o Exemplo" - 300/100_writing_working.txt 
 
 * Open letter - Thank you note JC and notes about use of irony - https://www.escrevendoumescritor.com.br/a/diario-10-10-2024-revisao-reflexao-uso-ironia 
 
