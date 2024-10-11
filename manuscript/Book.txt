@@ -20,6 +20,7 @@
 
 000_part3.txt
 
+300/100_writing_working.txt
 300/200_methods_paragraph.txt
 300/210_methods_images.txt
 300/300_ferramentas_ia.txt
