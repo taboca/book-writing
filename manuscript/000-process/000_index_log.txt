@@ -3,6 +3,8 @@
 
 ## Done 
 
+* Article - "
+
 * Thanks section, 000-process/200_thanks.txt 
 
 * Article - "A Escrita, o Trabalho, é o Exemplo" - 300/100_writing_working.txt 
