@@ -6,6 +6,7 @@
 
 100/010_self_grief.txt
 100/100_tools_collaboration.txt
+100/150_industry.txt                # Writers, editors, and the modern market 
 100/200_critic_model.txt
 
 000_part2.txt
