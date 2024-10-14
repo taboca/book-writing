@@ -21,11 +21,22 @@ Tem dois artigos, insights para artigos, um deles é a conexão de embromation, 
 
 ### 
 
-> "Forget or ignore for a while all the difficulties you have let yourself dwell upon too often. Refuse to consider, in your period of training, the possibility of failure. You are not at this stage of your career in any position to estimate your chances justly. Things which look difficult or impossible to you now will be seen through your perspective when you have gone a little further. Later you can take an inventory of yourself from time to time, see what is easy for you and what you do badly or imperfectly. You can consider then what steps to take to correct this definite fault, and by that time you will be able to work on yourself profitably, without discouragement or bravado" (Brande Dorothea, 1934, p. 41)
+> *"Esqueça ou ignore por um tempo todas as dificuldades sobre as quais você tem se permitido refletir com muita frequência. Recuse-se a considerar, durante o seu período de treinamento, a possibilidade de fracasso. Nesta fase de sua carreira, você não está em posição de avaliar suas chances de forma justa. Coisas que agora parecem difíceis ou impossíveis para você serão vistas de outra perspectiva quando você avançar um pouco mais. Mais tarde, você poderá fazer um inventário de si mesmo de tempos em tempos, ver o que é fácil para você e o que você faz mal ou de forma imperfeita. Nesse momento, poderá considerar quais passos tomar para corrigir essa falha específica, e, até lá, será capaz de trabalhar em si mesmo de forma produtiva, sem desânimo ou arrogância"* (Brande Dorothea, 1934, p. 41, tradução nossa).
+
 
 <!--
+@meta-note english 
+> "Forget or ignore for a while all the difficulties you have let yourself dwell upon too often. Refuse to consider, in your period of training, the possibility of failure. You are not at this stage of your career in any position to estimate your chances justly. Things which look difficult or impossible to you now will be seen through your perspective when you have gone a little further. Later you can take an inventory of yourself from time to time, see what is easy for you and what you do badly or imperfectly. You can consider then what steps to take to correct this definite fault, and by that time you will be able to work on yourself profitably, without discouragement or bravado" (Brande Dorothea, 1934, p. 41)
+-->
+
+<!--
+
+@meta-discusson 
+* https://mail.google.com/mail/u/0/#inbox/KtbxLvHHlszSCnGRcFhknLXgwJNmJDDWqV
+
 @meta-references 
 * (Brande Dorothea, 1934, p. 41)
+
 --> 
 
 
