@@ -1,9 +1,12 @@
 
 * Todo - update v0.3 for v0.2 #collaboration #perception - https://docs.google.com/document/d/17qXo6V0O9SbZt2uCCtzORnvsvaFg7lj-ot9l_Qf2IYU/edit
 
+* Todo - critical - the synopsis and the justification need to talk about the critic, as a secondary element of consciousness that supports the destructive condition of the writer's path. Ref v0.8 https://docs.google.com/document/d/1MG5nfhVdCB6lCjf-zGK7v7RNHXnGpB126EsIwbL6An4/edit?tab=t.0
+
 ## Done 
 
-* Review to introduction - 
+* October, 19th, 2024 - edited the justification (why it is relevant and original) with the 0.8 version. 
+* Review to introduction @ v0.8 https://docs.google.com/document/d/1MG5nfhVdCB6lCjf-zGK7v7RNHXnGpB126EsIwbL6An4/edit?tab=t.0
 
 * Thanks section, 000-process/200_thanks.txt 
 
