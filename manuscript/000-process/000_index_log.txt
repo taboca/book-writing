@@ -1,12 +1,12 @@
-## Todo - critical - the synopsis and the justification need to talk about the critic? 
+## Todo 
 
-* Ref v0.9? https://docs.google.com/document/d/1z23JaK5I4gNOYkUAuGLeIhZ_OrgF-bAH7aAfLrPlE48/edit?tab=t.0
-* Ref v0.8 https://docs.google.com/document/d/1MG5nfhVdCB6lCjf-zGK7v7RNHXnGpB126EsIwbL6An4/edit?tab=t.0
+* [ ] From v3.4 - make point that the world is not the problem, is that our instinticve needs gets more answers from the world. 
 
-
-* Todo - update v0.3 for v0.2 #collaboration #perception - https://docs.google.com/document/d/17qXo6V0O9SbZt2uCCtzORnvsvaFg7lj-ot9l_Qf2IYU/edit
+* [ ] From the v3.4, consider if it is really necessary to consider the voices of the market, such as the example of the professional writer that gets helps. 
 
 ## Done 
+
+* October, 28th, 2024 - Justification now embraces the problem with the critic, within the second perspective - v3.4 https://docs.google.com/document/d/1-UWU-nbR0X6fXyg4UsFrmsMkyygmFmUhnj77zITZVq8/edit?tab=t.0 
 
 * October, 19th, 2024 - edited the justification (why it is relevant and original) with the 0.8 version. 
 * Review to introduction @ v0.8 https://docs.google.com/document/d/1MG5nfhVdCB6lCjf-zGK7v7RNHXnGpB126EsIwbL6An4/edit?tab=t.0
