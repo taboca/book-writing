@@ -1,6 +1,10 @@
 
 <!--
 
+* v4.0 (alternate, not taken) https://docs.google.com/document/d/1viyW7fli7lZ7BVslnnx--mcno3WCPsz_u8AbYB-pfrk/edit?tab=t.0
+
+* v3.6 - https://docs.google.com/document/d/1V9HuETYETSPPuhjJDRK4PAfS0RE8OISDKDGvS2Ybu4Y/edit?tab=t.0
+
 * v3.5 - https://docs.google.com/document/d/1-UWU-nbR0X6fXyg4UsFrmsMkyygmFmUhnj77zITZVq8/edit?tab=t.0
 
 * v3.3 - https://docs.google.com/document/d/1-UWU-nbR0X6fXyg4UsFrmsMkyygmFmUhnj77zITZVq8/edit?tab=t.0 
@@ -16,8 +20,8 @@
 ## Justification A 
 
 <!--
-v3.5 
-* https://docs.google.com/document/d/1-UWU-nbR0X6fXyg4UsFrmsMkyygmFmUhnj77zITZVq8/edit?tab=t.0
+
+* v3.6 - https://docs.google.com/document/d/1V9HuETYETSPPuhjJDRK4PAfS0RE8OISDKDGvS2Ybu4Y/edit?tab=t.0
 
 ### Outline 
 
@@ -35,27 +39,20 @@ v3.5
 
 Este projeto está alinhado com as perspectivas que pedem por uma visão consciente sobre o nosso movimento acelerado diante de um mundo mais conectado e interativo. Se considerarmos a jornada do desenvolvimento dos escritores, encontraremos novos desafios e boas razões para refletir - e reavaliar - a forma que nos envolvemos com a escrita, tanto profissionalmente como pessoalmente.
 
-Como escritores, aspirantes ou já envolvidos com escrita, estamos imersos em um meio de narrativas e soluções aplicáveis para toda e qualquer etapa do processo. Estamos mais colaborando e interagindo com redes sociais que nos levam para mais métodos, ferramentas e plataformas. Criticar este ambiente é um grande desafio, justamente pela riqueza e abundância que, de fato, não nos força a nada. Em outras palavras, é complexo ver problemas em um meio que nos convida para escrever, editar e publicar muito mais - e que faz isso de certa forma democrática, ou mais acessível, considerando-se aquele passado onde ser escritor era bem mais restrito. 
+Como escritores, aspirantes ou já envolvidos com escrita, estamos imersos em um meio de narrativas que levam a soluções para toda e qualquer etapa do processo. Pela ótica positiva, estamos muito mais colaborando e interagindo, encontrando mais métodos, ferramentas e plataformas, certamente mais envolvidos com escrever, editar e publicar. 
+Mas quando nos preocupamos com o processo de construção do escritor, enquanto o meio externo não cansa de oferecer mais soluções, não garante uma visão consciente que nos ajuda com os desafios do processo de evolução com a escrita. 
 
-É a partir da visão de que este ambiente é abundante, rico e acelerado que justificamos a relevância deste material. Não porque seja um mal absoluto mas por justamente nos empoderar para buscar resultados imediatos, o que nos leva a distanciar do pensamento consciente que se preocupa com o processo de construção do escritor. Quando nos preocupamos com o processo de construção do escritor, destacamos que este ambiente não cansa, pois de novo e de novo faz mais do mesmo, oferecendo mais soluções, mais atalhos, mais receitas, mais regras, inclusive para resolver todo novo problema que vamos encontrando. Enquanto o tempo passa, enquanto o meio não cuida da estratégia individual de cada um, avançamos menos conscientes e menos preparados para lidar com os desafios do caminho. 
+Convido você a considerar como o meio pode influenciar o caminho do escritor, pela perspectiva de crescimento e defesa:  
+Quando queremos crescer, cheios de expectativas por resultados, encontramos muitas narrativas, mais elaboradas, que nos levam a perceber as soluções como “caminhos das pedras”. Em um ambiente hiperconectado, ouvimos, analisamos, decidimos, e interagimos muito mais. Devemos lembrar que, se dispostos, o meio nos convida para aprender em retrospectiva, depois das falhas. Além disso, podemos avançar de certa forma menos sozinhos, uma vez que  encontramos suporte pelo próprio tecido social que nos permite colaborar e interagir. Ainda devemos lembrar que, quando desprovidos de uma visão mais estratégica sobre nossa jornada individual, corremos o risco de encontrar no nosso entorno (nas nossas redes de contatos) narrativas redundantes que ecoam mais do mesmo - que nos levam para os mesmos caminhos das pedras. 
 
-Neste contexto, este projeto propõe um momento de reflexão que é uma oportunidade para revermos nossa atitude sobre a forma que nos envolvemos com a escrita. 
-
-Convido você a considerar como nosso meio pode influenciar o caminho do escritor, pela perspectiva de crescimento e defesa. 
-
-Olhando pela ótica de crescimento, e cheios de expectativas por resultados - encontramos no meio muitas narrativas, mais elaboradas, que nos levam a perceber as soluções como “caminhos das pedras”. Em um ambiente hiperconectado, ouvimos mais, analisamos mais, decidimos mais, e logicamente interagimos muito mais. Devemos lembrar que este ambiente também nos convida para aprender em retrospectiva (depois de falhar), também nos acolhendo para corrigir nossas falhas. Além disso, podemos nos ver menos sozinhos, uma vez que  encontramos mais suporte no próprio tecido social de interações. Ainda devemos lembrar que, quando desprovidos de uma visão mais consciente sobre nossa jornada individual, encontramos no nosso entorno (nas nossas redes de contato existentes) mais narrativas que ecoam mais do mesmo - os mesmos caminhos das pedras. 
 Esta situação não é só um desafio para escritores aspirantes dado que o meio também traz narrativas elaboradas e soluções específicas para toda e qualquer etapa do processo. Considere, por exemplo, o escritor que publicou mais rápido e logo na sequência pergunta “Mas e agora, o que acontece?” E uma voz assertiva neste mesmo ambiente diz “Como todos sabem, o trabalho do escritor começa quando o livro acaba. Agora você precisa vender!” E uma mão se estende com outra voz que diz “E podemos também lhe ajudar com isso!”
 
-Em resumo, olhando pela perspectiva de crescimento, este ambiente não só envolve mas também empodera (seguindo a ótica de expectativas de resultados no mercado) de certa forma trazendo conforto inicial mas certamente demanda mais atenção e energia e sem garantias de não estarmos avançando em uma movimentação arbitrária. 
-
-Considerando a perspectiva defesa - aquela que nos livra de situações arriscadas - nos tornando mais severos, como sendo criteriosos agora munidos de mais argumentos orientados pela mesma ótica do ambiente externo e uma narrativa mercadológica. Nesta situação, ainda acelerados, sentimos o impacto da energia despendida assim como as frustrações e humilhações, que agora, diante de uma autocrítica mais intensa - e limitada - nos leva ao auto julgamento (no sentido de auto sabotagem)  que logicamente não se traduz em cuidado (e consequentemente a reavaliar nossas estratégias) mas que reflete no dia-a-dia, diante de mais pressão, como mais ansiedade, mais desgaste assim influenciando nossos mecanismo de autodefesa. 
-
+Em resumo, olhando pela perspectiva de crescimento, este ambiente traz movimento, e de certa forma conforto inicial, mas demanda mais atenção e mais energia sem garantias de que a movimentação não é, de certa forma, arbitrária. 
+Considerando a perspectiva de defesa - aquela que nos livra de situações arriscadas - o avanço ao movimento não nos impede dessa visão que minimamente percebe: mais acelerados, mais sentimos o feedback da energia despendida - tanto dos movimentos de sucesso como de falhas - por meio de mais interações onde muitas inclusive são feitas em colaboração ou nos expondo ao mundo.  Mais envolvidos com ações, corremos o risco de, no dia-a-dia, avançarmos em um ambiente de mais pressão, com mais ansiedade, acumulando  desgaste e frustrações. E mesmo que nossas falhas sejam base para aprendizado, o meio não nos garante cuidado para lidar com o impacto negativo desse movimento, como ressignificar as grandes decepções e humilhações. Além disso, munidos das próprias narrativas de expectativas por resultados (orientadas por apelos mercadológicos) alimentamos uma visão de autocrítica que é limitada e severa com nossos movimentos, e que nos coloca em uma posição de decidir mais rapidamente, ou de reagir mais rapidamente, com menos paciência e mais emoções, de forma menos calma, menos estratégica, em movimentos de defesa que podem ser vistos - por uma visão externa - como autossabotagem.   
 Ao considerarmos essas duas perspectivas, podemos concluir que avançar dessa forma nos empodera para agir em movimentos arbitrários enquanto gastamos mais energia ao mesmo tempo que acumulando o peso das falhas. Enquanto isso, simultaneamente, nos tornamos mais severos sobre o nosso movimento, acumulando ainda mais frustrações e ansiedade. O resultado, considerando a visão do processo da escrita, é uma escrita que se interrompe, levando ao que os profissionais se referem a bloqueios, mas que para muitos na situação confusa infelizmente tornam-se ainda mais sinais de problemas - como uma bola de neve - podendo inclusive levar a situação catastrófica de total decepção com a escrita ou uma interrupção silenciosa que em muitos casos são trazidas pensamento consciente com frases como “não tenho vocação”, “não é uma vida para mim”, dentre outras da mesma ordem. 
 
 De forma geral, podemos considerar que acabamos empoderados pelo movimento - de certa forma acolhidos pelo tecido social - mas desamparados da visão que cuida da jornada individual, uma visão de liderança, distanciando do pensamento consciente sobre o processo de evolução do escritor. Enquanto isso, potencializados por expectativas de resultados e sem o aparelhamento para enfrentar as frustrações no caminho - por exemplo refletir, ressignificar e planejar diante dos desafios. E mais, sem uma visão que poderia nos permitir ver que os desafios no caminho são as verdadeiras oportunidades. 
-
 Para todos os níveis de escritores temos muito a perder se não quebrarmos essa forma de condução. Se no passado ser escritor era difícil (por conta do ambiente menos democrático, caro e seletivo) o paradoxo é que hoje temos solução para tudo, por um lado, mas estamos literalmente desamparados de perspectivas estratégicas de crescimento e defesa. É neste sentido que justificamos este material - porque precisamos perceber melhor nosso movimento no ambiente e porque temos muito a ganhar como escritores, como profissionais, e como seres humanos.  
-
 Escrevendo um Escritor resgata elementos deixados por grandes mestres da escrita (de um passado recente mas menos acelerado) que não só encontraram a arte da escrita mas nos contaram sobre o processo - sobre o que é ser um escritor e sobre a importância de ver essa jornada como um processo de evolução. Neste sentido, reunimos pensamentos que nos ajudam a desafiar o ambiente e que nos guiam de forma iluminada para nos livrar do movimento obcecado e do assédio de narrativas que tornaram-se de fato pedras no caminho do escritor.  
 
 O leitor, agora escritor-leitor, é convidado a trilhar um caminho que valoriza o indivíduo, no presente. Desta forma, por meio da escrita, criamos as condições onde a escrita e o escritor evoluem juntos. Por uma condução mais calma, abrimos espaço para ver o processo pela ótica da inovação e da gestão, e olhar o ambiente externo como um palco dinâmico onde essencialmente o escritor caminha em evolução contínua. Desta forma, nosso rumo envolve uma uma condução mais consciente e que vê o que temos a frente como oportunidades de evoluir, não importando nossos projetos - páginas matinais, diário, blog, ebook, livro, próximo livro etc. 
@@ -63,3 +60,8 @@ O leitor, agora escritor-leitor, é convidado a trilhar um caminho que valoriza 
 Concluindo esta justificativa, destacamos um aspecto de originalidade justamente porque o próprio legado de grandes escritores que refletiram sobre a escrita nos deram também a solução para uma navegação mais serena, mais calma, onde podemos, por meio da escrita - no sentido de escrita meditativa e reflexiva - nos desconectar desse ritmo frenético e ambiente abundante; mas de forma que fundamentalmente nos recuperamos, nos resgatamos e ficamos posicionados para transcender das pressões do dia dia, organizando nossos pensamentos e avançando nossas vidas de forma mais lúcida e criativa, menos orientados pelos pensamentos que nos confundem e que nos frustram. 
 
 Como resultado, Escrevendo um Escritor, ao colocar atividade de escrever no centro de uma construção consciente, nos livra do movimento controlador - e controlado - ditado pela realidade do meio do momento ao mesmo tempo nos conduzindo para uma construção verdadeira com o mundo, que nos faz mais escritores verdadeiros e mais humanos. 
+
+
+
+
+

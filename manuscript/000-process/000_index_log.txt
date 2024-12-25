@@ -1,5 +1,7 @@
 ## Todo 
 
+* [ ] - p1 - general - consider the new text for #ai #interns - https://docs.google.com/document/d/1bIov48rlxpuKP47j3l3NtDMsdZGOxzDDsnvRfQQGPn0/edit?tab=t.0 and cases https://mail.google.com/mail/u/0/#search/sonoridade/QgrcJHshZXBDcFxDtSVjzTvPmFDtzBmbbgG and https://www.youtube.com/watch?v=GxHcvXBe8nY
+
 ## Done 
 
 * October, 29th, 2024 - v3.5 seems to be better, minimally Marcio is showing - https://docs.google.com/document/d/1-UWU-nbR0X6fXyg4UsFrmsMkyygmFmUhnj77zITZVq8/edit?tab=t.0  / * [x] From v3.4 - make point that the world is not the problem, is that our instinticve needs gets more answers from the world. 
